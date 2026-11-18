@@ -1,0 +1,1 @@
+Task 2 was practiced in the Task 1 repository. See ../task1/GIT-HISTORY.txt for its history.
