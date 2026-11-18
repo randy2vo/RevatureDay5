@@ -1,0 +1,4 @@
+Checkout started
+Add shipping address
+Add payment step
+Add order confirmation

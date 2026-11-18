@@ -1,0 +1,6 @@
+* a0a9e6f cleanup
+* 6b4862e fix again
+* 0c20b05 fix typo
+* bab840c wip
+* af40d4c Prepare checkout release
+* ee37b7e Initialize checkout project

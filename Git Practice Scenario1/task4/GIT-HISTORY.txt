@@ -1,0 +1,6 @@
+*   6c96f69 Merge discount with adjusted price
+|\  
+| * 0eb7c37 Set discounted price
+* | 36a9195 Increase price
+|/  
+* 4417435 Set initial price

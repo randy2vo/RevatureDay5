@@ -1,0 +1,4 @@
+* 940b0ab Add payment method
+* b4845a1 Ignore logs and secrets
+* d43b9e2 Add cart module
+* 1b52e11 added README

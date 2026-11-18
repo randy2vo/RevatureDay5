@@ -1,0 +1,4 @@
+* 5ffe4fd Add analytics tracking
+* 902819f Fix tax calculation
+* f46cead Add product notes
+* 0f405d4 Initialize release project

@@ -1,0 +1,8 @@
+*   d3bfe62 Merge feature/reviews
+|\  
+| * d4accb0 Add reviews feature
+* | 487a456 Add shipping information
+|/  
+* d3e195f Add wishlist item behavior
+* 6e98bd8 Add wishlist page
+* 601623d Initialize ShopEasy
